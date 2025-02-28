@@ -1,3 +1,6 @@
+
+![logo](https://github.com/user-attachments/assets/517b07c0-3bf9-4123-a56a-d45a881b485b)
+
 <p align="center">
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
@@ -21,7 +24,6 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 ----
 
 # Useful Tips
-
 - If you are experiencing performance issues, try changing the Box64 preset to `Performance` in Container Settings -> Advanced Tab.
 - For applications that use .NET Framework, try installing `Wine Mono` found in Start Menu -> System Tools.
 - If some older games don't open, try adding the environment variable `MESA_EXTENSION_MAX_YEAR=2003` in Container Settings -> Environment Variables.
