@@ -12,7 +12,7 @@ Windowed is an Android application modified from winlator that lets you to run W
 
 ----
 
-
+Windowed es una aplicación modificada de Winlator, diseñada para mejorar la experiencia de emulación de Windows en dispositivos Android con un enfoque personalizado y optimizado.
 
 ----
 
