@@ -3,7 +3,7 @@
 
 # Windowed
 
-Windowed is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
+Windowed is an Android application modified from winlator that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
 # Installation
 
