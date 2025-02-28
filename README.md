@@ -7,7 +7,7 @@ Windowed is an Android application modified from winlator that lets you to run W
 
 # Installation
 
-1. Download and install the APK (gen.signed) from [GitHub Releases]([https://github.com/brunodev85/winlator/releases](https://github.com/exuberantmang/Windowed/releases/tag/v5.4))
+1. Download and install the APK (gen.signed) from [GitHub Releases]([https://github.com/exuberantmang/Windowed/releases/tag/v5.4)
 2. Launch the app and wait for the installation process to finish
 
 ----
